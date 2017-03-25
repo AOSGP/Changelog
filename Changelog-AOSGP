@@ -1,0 +1,15 @@
+-> Changelog AOSGP X 2.0:
+
+Based in Android-7.1.1_r25
+Add AOSGP Easter Egg
+Add One Hand Mode
+Add Tweaks of battery, performance and fluidity
+Add CAF kernel
+
+-> Changelog AOSGP X 2.1:
+
+Remove (for now) One Hand Mode
+Add crDroid Framework and Settings
+Add NEW fluidity tweak (based in Archidroid tweaks, thanks for it!)
+Fixed and upgrade source dependencies
+Add new AOSGP logo
