@@ -41,9 +41,9 @@ Check out AOSGP.org
 
 Cadmia Team
 ---------
-Diego Muñoz (dimusa)- Principal Developer
-Chema Aparicio- Themer
-FusionAndroid & Kakoluz- Old Themers
-Dani (Cadiducho)- Helper and OnePlus Maintainer
-Aritz- Webmaster of aosgp.org
-Abel- Helper
+* Diego Muñoz (dimusa)- Principal Developer
+* Chema Aparicio- Themer
+* FusionAndroid & Kakoluz- Old Themers
+* Dani (Cadiducho)- Helper and OnePlus Maintainer
+* Aritz- Webmaster of aosgp.org
+* Abel- Helper
