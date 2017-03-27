@@ -25,7 +25,7 @@ OnePlus
 Xiaomi
 --------
 * __[Mi5 (gemini)]:__ Diego Muñoz (dimusa)
-* __[Redmi Note 3 Pro (kenzo)]:__ Diego Muñoz (dimusa)
+* __[Redmi Note 3 Pro (kenzo)]:__ Abel Florez (florezabel)
 
 LG
 --------
