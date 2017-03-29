@@ -27,7 +27,7 @@ Xiaomi
 * __[Mi5 (gemini)]:__ Diego Muñoz (dimusa)
 * __[Redmi Note 3 Pro (kenzo)]:__ Abel Florez (florezabel)
 
-LG
+Bq
 --------
 * __[Aquaris X5 (paella)]:__ Diego Muñoz (dimusa)
 * __[Aquaris M5 (piccolo)]:__ Juanan (yeguetta557)
