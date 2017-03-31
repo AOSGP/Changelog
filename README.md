@@ -47,4 +47,4 @@ Cadmia Team
 * FusionAndroid & Kakoluz- Old Themers
 * Dani (Cadiducho)- Helper and OnePlus Maintainer
 * Aritz- Webmaster of aosgp.org
-* Abel- Helper
+* Abel- Helper and kenzo Maintainer
