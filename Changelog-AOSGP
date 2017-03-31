@@ -13,3 +13,8 @@ Add crDroid Framework and Settings
 Add NEW fluidity tweak (based in Archidroid tweaks, thanks for it!)
 Fixed and upgrade source dependencies
 Add new AOSGP logo
+
+  ->2.1-20170331:
+    Fix Buttons and StatusBar bug in Settings
+    Add full support for themes (add System apps)
+    
