@@ -18,3 +18,10 @@ Add new AOSGP logo
     Fix Buttons and StatusBar bug in Settings
     Add full support for themes (add System apps)
     Add full translate for AOSGP Settings in Spanish
+    
+  ->2.1.1-20170420:
+    Add One Hand Mode in Buttons (for all devices)
+    Add android-7.1.2_r2
+    Remove  trebuchet and add Flick Launcher
+    Prepared for FdA version
+    Add fixes to themes and security 
