@@ -1,0 +1,26 @@
+->Changelog AOSGP X 2.0:
+
+Basado en Android-7.1.1_r25
+Añadido Easter Egg
+Añadido Modo con una mano
+Añadidos Tweaks de Fluidez, Estabilidad y Batería (recreados a partir de 0)
+
+-> Changelog AOSGP X 2.1:
+
+Eliminado (por ahora) el modo con una mano
+Añadido el framework y los ajustes de crDroid
+Añadido NUEVO tweak de fluidez (based in Archidroid tweaks, gracias por ellos!)
+Arregladas y actualizadas las sources
+Añadido nuevo logo de AOSGP
+
+  ->2.1-20170331:
+    Arreglado el problema de Botones y la Statusbar en Ajustes
+    Añadido el soporte completo a temas (al fin)
+    AOSGP Settings traducido al español por completo
+    
+  ->2.1.1-20170420:
+    Añadido de nuevo el modo a una mano en Botones (para cualquier dispositivo)
+    Basado en Android-7.1.2_r2
+    Eliminado Trebuchet y añadido Flick Launcher
+    Preparación para la versión FdA
+    Añadido correcciones de temas y seguridad
