@@ -15,7 +15,7 @@ Motorola
 
 Lenovo
 --------
-* __[Lenovo P2 (p2a42)]:__ EypCnn
+* __[Lenovo P2 (p2a42)]:__ EypCnn And Wzedlare
 
 
 LG
@@ -39,8 +39,8 @@ Bq
 
 Google
 --------
-* __[Android One 2º or GM4G (seed)]:__ EypCnn
-* __[Android One 3º or GM5+ (shamrock)]:__ EypCnn
+* __[Android One 2º or GM4G (seed)]:__ Hellios Darkline And EypCnn
+* __[Android One 3º or GM5+ (shamrock)]:__ Rygebın and EypCnn
 
 
 Become an official maintainer
