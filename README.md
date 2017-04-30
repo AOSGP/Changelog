@@ -5,7 +5,7 @@ Official Maintainers
 --------------------
 Below devices are officially supported.
 
-MOTOROLA
+Motorola
 --------
 * __[Moto G (falcon)]:__ Diego Muñoz (dimusa)
 * __[Moto G 4G (peregrine)]:__ Diego Muñoz (dimusa)
