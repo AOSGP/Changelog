@@ -43,6 +43,10 @@ Google
 * __[Android One 2º or GM4G (seed)]:__ Hellios Darkline and EypCnn
 * __[Android One 3º or GM5+ (shamrock)]:__ Rygebın and EypCnn
 
+Yu
+--------
+* __[Yureka (tomato)]:__ Neeraj Thakur (thakurfazer)
+
 
 Become an official maintainer
 -----------------------------
