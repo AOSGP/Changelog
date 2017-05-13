@@ -11,11 +11,11 @@ Motorola
 * __[Moto G 4G (peregrine)]:__ Diego Muñoz (dimusa)
 * __[Moto G 15 (osprey)]:__ Diego Muñoz (dimusa)
 * __[Moto G 2014 (titan)]:__ Diego Muñoz (dimusa)
-* __[Moto G4 Plus (athene)]:__ Diego Muñoz (dimusa)
+* __[Moto G4 Plus (athene)]:__ Joe Pacino (joeeboogz)
 
 Lenovo
 --------
-* __[Lenovo P2 (p2a42)]:__ EypCnn And Wzedlare
+* __[Lenovo P2 (p2a42)]:__ Wzedlare and EypCnn
 
 
 LG
@@ -31,6 +31,7 @@ Xiaomi
 --------
 * __[Mi5 (gemini)]:__ Diego Muñoz (dimusa)
 * __[Redmi Note 3 Pro (kenzo)]:__ Abel Florez (florezabel)
+* __[Mi5S Plus (natrium)]:__ Rodrigo Diaz (rodries)
 
 Bq
 --------
@@ -39,7 +40,7 @@ Bq
 
 Google
 --------
-* __[Android One 2º or GM4G (seed)]:__ Hellios Darkline And EypCnn
+* __[Android One 2º or GM4G (seed)]:__ Hellios Darkline and EypCnn
 * __[Android One 3º or GM5+ (shamrock)]:__ Rygebın and EypCnn
 
 
@@ -55,5 +56,6 @@ Cadmia Team
 * Chema Aparicio- Themer
 * FusionAndroid & Kakoluz- Old Themers
 * Dani (Cadiducho)- Helper and OnePlus Maintainer
+* Rodrigo Diaz (rodries)- Helper and natrium Maintainer
 * Aritz- Webmaster of aosgp.org
-* Abel- Helper and kenzo Maintainer
+* Abel- Helper and Kenzo Maintainer
