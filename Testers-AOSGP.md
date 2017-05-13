@@ -17,3 +17,4 @@ Bq
 Xiaomi
 --------
 * __[Mi5 (gemini)]:__ Victor
+* __[Redmi Note 3 (kenzo)]:__ McPcholkin
