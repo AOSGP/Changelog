@@ -21,7 +21,11 @@ Add new AOSGP logo
     
   ->2.1.1-20170420:
     Add One Hand Mode in Buttons (for all devices)
-    Add android-7.1.2_r2
+    Add Android-7.1.2_r2
     Remove  trebuchet and add Flick Launcher
     Prepared for FdA version
     Add fixes to themes and security 
+    
+  ->2.1.1-20170504:
+    Add Android-7.1.2_r8
+    Update some fixes
