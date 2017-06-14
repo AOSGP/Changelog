@@ -7,11 +7,12 @@ Below devices are officially supported.
 
 Motorola
 --------
-* __[Moto G (falcon)]:__ Diego Muñoz (dimusa)
-* __[Moto G 4G (peregrine)]:__ Diego Muñoz (dimusa)
-* __[Moto G 15 (osprey)]:__ Diego Muñoz (dimusa)
-* __[Moto G 2014 (titan)]:__ Diego Muñoz (dimusa)
+* __[Moto G (falcon)-discontinued]__ Diego Muñoz (dimusa)
+* __[Moto G 4G (peregrine)-discontinued]:__ Diego Muñoz (dimusa)
+* __[Moto G 15 (osprey)-discontinued]:__ Diego Muñoz (dimusa)
+* __[Moto G 2014 (titan)-discontinued]:__ Diego Muñoz (dimusa)
 * __[Moto G4 Plus (athene)]:__ Joe Pacino (joeeboogz)
+* __[Moto G5 Plus (potter)]:__ Manik Chathli (manikchathli)
 
 Lenovo
 --------
@@ -32,6 +33,7 @@ Xiaomi
 * __[Mi5 (gemini)]:__ Diego Muñoz (dimusa)
 * __[Redmi Note 3 Pro (kenzo)]:__ Abel Florez (florezabel)
 * __[Mi5S Plus (natrium)]:__ Rodrigo Diaz (rodries)
+* __[Redmi Note 4 Snapdragon (mido)]:__ MakeMeCool
 
 Bq
 --------
@@ -46,6 +48,10 @@ Google
 Yu
 --------
 * __[Yureka (tomato)]:__ Neeraj Thakur (thakurfazer)
+
+Zuk
+--------
+* __[Z1 (ham)]:__ Jyothish (jyo_1231)
 
 
 Become an official maintainer
@@ -63,3 +69,4 @@ Cadmia Team
 * Rodrigo Diaz (rodries)- Helper and natrium Maintainer
 * Aritz- Webmaster of aosgp.org
 * Abel- Helper and Kenzo Maintainer
+* Thanks to all developers to create devices, kernel & vendor Trees
