@@ -29,3 +29,13 @@ Add new AOSGP logo
   ->2.1.1-20170504:
     Add Android-7.1.2_r8
     Update some fixes
+    
+   ->2.1.1-20170610:
+    Add Android-7.1.2_r11
+    Add AOSGPWalls
+    Fix OTAs
+    Fix link with some apps like FileManager
+    Remove Deprecated apps from LineageOS
+    Update Substratum and Pixel launcher
+    New Server!
+    
