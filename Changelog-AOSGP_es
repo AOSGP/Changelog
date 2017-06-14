@@ -24,3 +24,13 @@ Añadido nuevo logo de AOSGP
     Eliminado Trebuchet y añadido Flick Launcher
     Preparación para la versión FdA
     Añadido correcciones de temas y seguridad
+    
+    ->2.1.1-20170610:
+    Basado en Android-7.1.2_r11
+    Añadida app AOSGPWalls
+    Arreglado el sistema OTA
+    Arreglado el compilado de algunas apps como el Explorador de archivos
+    Eliminadas apps antiguas de Lineage OS
+    Actualizado Substratum y Pixel Launcher
+    ¡Nuevo Servidor!
+    
