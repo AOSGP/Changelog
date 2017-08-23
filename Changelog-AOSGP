@@ -43,3 +43,8 @@ Add new AOSGP logo
     Add Android-7.1.2_r24
     Merge new setting (thanks to crDroid team)
     
+    ->2.2-20170811:
+    Add Android-7.1.2_r29
+    Removed CMFileManager and added AnExplorer
+    Added color manager
+    Added SnapMusic
