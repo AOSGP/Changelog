@@ -37,3 +37,9 @@ Añadido nuevo logo de AOSGP
     ->2.1.1-20170708:
     Basado en android-7.1.2_r24
     Actualizado con nuevos ajustes (gracias al equipo de crDroid)anks to crDroid team
+    
+    ->2.2-20170811
+    Basado en android-7.1.2_r24
+    Eliminado CMFileManager y añadido AnExplorer
+    Añadido gestor de colores
+    Añadido SnapMusic
